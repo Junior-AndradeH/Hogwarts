@@ -1,4 +1,4 @@
-# hogwarts
+# Hogwarts
 
 A new Flutter project.
 
